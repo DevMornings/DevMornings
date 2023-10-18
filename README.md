@@ -4,11 +4,11 @@
 
 We are divided into ***DevMorning City Chapters***. We have chapters in the following cities.
 
-* [Bangkok - Thailand](https://www.meetup.com/bkk-devmorning/) - 🇹🇭
-* [Fukuoka - Japan](https://www.meetup.com/ja-JP/fukuoka-devmorning/) - 🇯🇵
-* [Ho Chi-Minh City - Vietnam](https://www.meetup.com/saigon-devmorning/) - 🇻🇳
-* [Singapore - Singapore](https://www.meetup.com/sg-devmorning/) - 🇸🇬
-* [Tokyo - Japan](https://www.meetup.com/dev-morning/) - 🇯🇵
+* [Bangkok - Thailand](https://www.meetup.com/bkk-devmorning/) - 🇹🇭 - [GitHub repo](https://github.com/DevMornings/DevMorning-BKK)
+* [Fukuoka - Japan](https://www.meetup.com/ja-JP/fukuoka-devmorning/) - 🇯🇵 - [GitHub repo](https://github.com/DevMornings/DevMorning-Fukuoka)
+* [Ho Chi-Minh City - Vietnam](https://www.meetup.com/saigon-devmorning/) - 🇻🇳 - [GitHub repo](https://github.com/DevMornings/DevMorning-HCMC)
+* [Singapore - Singapore](https://www.meetup.com/sg-devmorning/) - 🇸🇬 - [GitHub repo](https://github.com/DevMornings/DevMorning-SG)
+* [Tokyo - Japan](https://www.meetup.com/dev-morning/) - 🇯🇵 - [GitHub repo](https://github.com/DevMornings/DevMorning-Tokyo)
 
 
 ## What is DevMorning?
